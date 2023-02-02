@@ -1,2 +1,2 @@
-# Nutrishop-ecommerce-prject
+# Nutrishop-ecommerce-prOject
 Ecommerce website
